@@ -14,7 +14,7 @@ use anchor_spl::{
 
 use mpl_token_metadata::accounts::{ MasterEdition, Metadata as MetadataAccount };
 
-declare_id!("9Zvx8bTxseVgw9zLCcym1pDtAzvu8ese24KG41f15fzn");
+declare_id!("9Z...");
 #[program]
 pub mod solana_nft_anchor {
     use super::*;
